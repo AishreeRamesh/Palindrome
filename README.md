@@ -20,6 +20,7 @@ Use if condition to check whether the string and the reversed string is equal or
 print palindrome if it's equal else print not a palindrome.
 ### Step6:
 stop
+<br/><br/><br/><br/><br/><br/><br/>
 
 ## Program:
 ```c#
